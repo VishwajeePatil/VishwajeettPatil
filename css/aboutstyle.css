@@ -1,0 +1,246 @@
+.info {
+    position: absolute;
+    margin: 100px 0 0 100px;
+    
+}
+.info img{
+position: absolute;
+width: 300px;
+height: 300px;
+
+
+/* background: url(IMG_20221204_083736.jpg); */
+box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.25);
+border-radius: 1205px;
+}
+.hi{
+position:absolute;
+width: 107px;
+height: 59px;
+margin: 10px 0 0 350px;
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 50px;
+line-height: 59px;
+/* identical to box height */
+
+
+color: #4ea0ff;
+}
+.imvishwajeet{
+position: absolute;
+width: 522px;
+height: 60px;
+margin: 70px 0 0 430px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 70px;
+
+color: #0070d8;
+}
+.line2{
+    position: absolute;
+width: 458px;
+height: 36px;
+margin: 150px 0 0 430px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 30px;
+line-height: 36px;
+
+color: #919191;
+}
+.line3{
+position: absolute;
+width: 801px;
+height: 180px;
+margin: 200px 0 0 430px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 25px;
+line-height: 30px;
+
+color: #505050;
+}
+.resumebutton a{
+box-sizing: border-box;
+position: absolute;
+width: 192px;
+height: 49px;
+margin: 330px 0 0 54px;
+border: 3px solid #0038FF;
+
+font-family: 'Alexandria';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 37px;
+text-decoration: none;
+
+color: #8A8A8A;
+
+padding: 2px 0 0 32px;
+}
+.resumebutton a:hover{
+    border: 3px solid #8A8A8A;
+    color: #0038FF;
+    transition: 0.5s; 
+}
+
+
+
+
+
+.information{
+    position: absolute;
+    margin: 600px 0 0 73px;
+    display: flex;
+    height: 450px;
+    width: 10000px;
+}
+.education{
+    height: 450px;
+    width: 500px;
+}
+.name{
+position: absolute;
+width: 134px;
+height: 35px;
+margin: 0 0 0 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 35px;
+
+color: #5993ff;
+}
+.information hr{
+position: absolute;
+margin-top: 36px;
+width: 199px;
+border: 1px solid #000000;
+}
+.section1{
+    font-family: 'Alexandria';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    position: absolute;
+    color: #000000;
+    width: 483px;
+}
+.section2{
+    font-family: 'Alexandria';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+position: absolute;
+color: #999999;
+width: 483px;
+}
+#section1{
+    margin-top: 47px;
+}
+#section2{
+    margin-top: 78px;
+
+}
+#section3{
+    margin-top: 112px;
+
+}
+#section4{
+    margin-top: 177px;
+}
+#section5{
+    margin-top:208px ;
+}
+#section6{
+    margin-top: 242px;
+}
+#section7{
+    margin-top:307px;
+}
+#section8{
+    margin-top: 338px;
+}
+#section9{
+    margin-top: 372px;
+}
+/* #section10{
+    margin-top: ;
+} */
+.certification{
+    height: 450px;
+    width: 400px;
+    position: absolute;
+    margin-left: 550px;
+
+}
+#certificate{
+
+    margin: 0 0 0 20px;
+}
+.certification hr{
+position: absolute;
+margin-top: 36px;
+width: 199px;
+
+}
+.skills{
+    position: absolute;
+    margin-left: 1050px;
+}
+#skills{
+    margin: 0 0 0 50px;
+}
+.skills hr{
+    position: absolute;
+    margin-top: 36px;
+    width: 199px;
+    }
+    #section11{
+        margin-top: 47px;
+    }
+    #section12{
+        margin-top: 81px;
+    
+    }
+    #section13{
+        margin-top: 115px;
+    
+    }
+    #section14{
+        margin-top: 149px;
+    }
+    #section15{
+        margin-top:183px ;
+    }
+    #section16{
+        margin-top: 217px;
+    }
+    #section17{
+        margin-top:251px;
+    }
+    #section18{
+        margin-top: 285px;
+    }
+    #section19{
+        margin-top: 319px;
+    }
+    #section110{
+        margin-top: 353px;
+    }

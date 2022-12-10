@@ -1,0 +1,314 @@
+.container1{
+    position: absolute;
+    margin: 100px 0 0 100px;
+
+}
+.hotelwalaimg{
+    position: absolute;
+    height: 300px;
+    width: 533px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.35);
+}
+.hotelwalaline1{
+    position: absolute;
+    margin: 0 0 0 736px;
+
+}
+.hotelwalaline1 p{
+    font-family: 'Alexandria';
+font-style: normal;
+font-weight: 500;
+font-size: 70px;
+line-height: 85px;
+
+color: #2C8B85;
+}
+.hotelwalaline2{
+    position: absolute;
+    margin: 82px 0 0 669px;
+}
+.hotelwalaline2 p{
+    font-family: 'Alexandria';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 49px;
+width: 490px;
+/* identical to box height */
+
+
+color: #73B0AD;
+}
+.hotelwalaline3{
+    position: absolute;
+    margin: 128px 0 0 736px;
+}
+.hotelwalaline3 p{
+    font-family: 'Alexandria';
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+line-height: 49px;
+width: 356px;
+
+
+color: #8DB5B3;
+}
+.hotelwalaline4{
+    position: absolute;
+    margin: 174px 0 0 657px;
+}
+.hotelwalaline4 p{
+    font-family: 'Alexandria';
+font-style: normal;
+font-weight: 200;
+font-size: 30px;
+line-height: 37px;
+text-align: center;
+width: 503px;
+color: #61817F;
+}
+.hotelwalabutton a{
+    box-sizing: border-box;
+    position: absolute;
+    width: 262px;
+    height: 49px;
+    margin: 251px 0 0 784px;
+    border: 3px solid #0038FF;
+    
+    font-family: 'Alexandria';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    text-decoration: none;
+    
+    color: #8A8A8A;
+    
+    padding: 2px 0 0 32px;
+    }
+    .hotelwalabutton a:hover{
+        border: 3px solid #8A8A8A;
+        color: #0038FF;
+        transition: 0.5s; 
+    }
+.containerline1{
+    position: absolute;
+    margin: 425px 0 0 100px;
+    width: 1240px;
+    border: 1px solid #A7A7A7;
+}
+
+
+
+.container2{
+    position: absolute;
+    margin: 450px 0 0 100px;
+
+}
+.coderimg{
+    position: absolute;
+    height: 300px;
+    width: 533px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.35);
+    margin: 0 0 0 707px;
+}
+.coderline1{
+    position: absolute;
+    margin: 0 0 0 224px;
+
+}
+.coderline1 p{
+    font-family: 'Alexandria';
+font-style: normal;
+font-weight: 500;
+font-size: 70px;
+line-height: 85px;
+
+color: #2C8B85;
+}
+.coderline2{
+    position: absolute;
+    margin: 82px 0 0 90px;
+}
+.coderline2 p{
+    font-family: 'Alexandria';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 49px;
+width: 490px;
+/* identical to box height */
+
+
+color: #73B0AD;
+}
+.coderline3{
+    position: absolute;
+    margin: 128px 0 0 114px;
+}
+.coderline3 p{
+    font-family: 'Alexandria';
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+line-height: 49px;
+width: 430px;
+
+
+color: #8DB5B3;
+}
+.coderline4{
+    position: absolute;
+    margin: 174px 0 0 77px;
+}
+.coderline4 p{
+    font-family: 'Alexandria';
+font-style: normal;
+font-weight: 200;
+font-size: 30px;
+line-height: 37px;
+text-align: center;
+width: 503px;
+color: #61817F;
+}
+.coderbutton a{
+    box-sizing: border-box;
+    position: absolute;
+    width: 262px;
+    height: 49px;
+    margin: 251px 0 0 197px;
+    border: 3px solid #0038FF;
+    
+    font-family: 'Alexandria';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    text-decoration: none;
+    
+    color: #8A8A8A;
+    
+    padding: 2px 0 0 32px;
+    }
+    .coderbutton a:hover{
+        border: 3px solid #8A8A8A;
+        color: #0038FF;
+        transition: 0.5s; 
+    }
+.containerline2{
+    position: absolute;
+    margin: 775px 0 0 100px;
+    width: 1240px;
+    border: 1px solid #A7A7A7;
+}
+
+
+
+.container3{
+    position: absolute;
+    margin: 800px 0 0 100px;
+
+}
+.biurimg{
+    position: absolute;
+    height: 300px;
+    width: 533px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.35);
+    
+}
+.biurline1{
+    position: absolute;
+    margin: 0 0 0 842px;
+
+}
+.biurline1 p{
+font-family: 'Alexandria';
+font-style: normal;
+font-weight: 500;
+font-size: 70px;
+line-height: 85px;
+
+color: #2C8B85;
+}
+.biurline2{
+    position: absolute;
+    margin: 82px 0 0 715px;
+}
+.biurline2 p{
+    font-family: 'Alexandria';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 49px;
+width: 490px;
+/* identical to box height */
+
+
+color: #73B0AD;
+}
+.biurline3{
+    position: absolute;
+    margin: 128px 0 0 797px;
+}
+.biurline3 p{
+    font-family: 'Alexandria';
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+line-height: 49px;
+width: 430px;
+
+
+color: #8DB5B3;
+}
+.biurline4{
+    position: absolute;
+    margin: 174px 0 0 663px;
+}
+.biurline4 p{
+    font-family: 'Alexandria';
+font-style: normal;
+font-weight: 200;
+font-size: 30px;
+line-height: 37px;
+text-align: center;
+width: 503px;
+color: #61817F;
+}
+.biurbutton a{
+    box-sizing: border-box;
+    position: absolute;
+    width: 192px;
+    height: 49px;
+    margin: 251px 0 0 818px;
+    border: 3px solid #0038FF;
+    
+    font-family: 'Alexandria';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    text-decoration: none;
+    
+    color: #8A8A8A;
+    
+    padding: 2px 0 0 32px;
+    }
+    .biurbutton a:hover{
+        border: 3px solid #8A8A8A;
+        color: #0038FF;
+        transition: 0.5s; 
+    }
+.containerline3{
+    position: absolute;
+    margin: 1125px 0 0 100px;
+    width: 1240px;
+    border: 1px solid #A7A7A7;
+}
